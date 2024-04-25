@@ -24,6 +24,14 @@ Your feedback is invaluable in helping us improve the RAG Q&A System. If you hav
 # License
 This project is licensed under the MIT License.
 
+# Screenshots
+
+![Screenshot 2024-04-26 001201](https://github.com/SakshiYN/Build-a-RAG-System-on-Leave-No-Context-Behind-Paper_IN1240908/assets/122168058/19fd096b-150a-4ec3-8afd-734aff493142)
+
+![Screenshot 2024-04-26 001254](https://github.com/SakshiYN/Build-a-RAG-System-on-Leave-No-Context-Behind-Paper_IN1240908/assets/122168058/e4b3c66b-67e9-4053-ab2b-338e58c77053)
+![Screenshot 2024-04-26 001312](https://github.com/SakshiYN/Build-a-RAG-System-on-Leave-No-Context-Behind-Paper_IN1240908/assets/122168058/7deec485-66b4-4aaf-95c8-35aadc76e817)
+
+
 
 
 
